@@ -1,0 +1,7 @@
+(coq.theory
+ (name fcsl)
+ (package coq-fcsl-pcm)
+ (flags -w -notation-overridden
+        -w -redundant-canonical-projection))
+
+(include_subdirs qualified)
