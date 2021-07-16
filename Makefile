@@ -1,6 +1,6 @@
 REPO = https://github.com/imdea-software/fcsl-pcm.git
 TAG = master #v1.3
-COMMIT = cbd73130489169d1bb236a0888fceacaa77f0d70
+COMMIT = 1c7389f9b73ffa63295bd7b3bddb0fcbf727abb3
 WORKDIR = workdir
 
 .PHONY: all get
