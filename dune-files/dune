@@ -1,5 +1,5 @@
 (coq.theory
- (name fcsl)
+ (name pcm)
  (package coq-fcsl-pcm)
  (flags -w -notation-overridden
         -w -redundant-canonical-projection))

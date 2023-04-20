@@ -1,5 +1,5 @@
 REPO = https://github.com/imdea-software/fcsl-pcm.git
-TAG = v1.4.0
+TAG = v1.7.0
 WORKDIR = workdir
 
 # Git boilerplate
